@@ -1,8 +1,8 @@
 {
-  "name": "my-react-gh-pages",
+  "name": "juliaortheden.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JuliaOrtheden.github.io/my-react-gh-pages",
+  "homepage": "http://juliaortheden.github.io",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
