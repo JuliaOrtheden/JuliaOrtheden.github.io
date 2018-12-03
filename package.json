@@ -1,8 +1,8 @@
 {
-  "name": "personal-website",
+  "name": "JuliaOrtheden.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JuliaOrtheden.github.io/personal-website",
+  "homepage": "http://JuliaOrtheden.github.io",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
