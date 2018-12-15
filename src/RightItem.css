@@ -1,0 +1,19 @@
+TextBox {
+    height: 100px;
+    width: auto;
+    margin: 100px;
+    display: flex;
+    background-color: antiquewhite;
+}
+
+.TextBox img {
+    height: 250px;
+    width: auto;
+    align-self: right;
+}
+
+.Text {
+    margin-left: 100px;
+    text-align: right;
+    color: black;
+}
